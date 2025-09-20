@@ -1,4 +1,4 @@
-# Proyecto WebSocket - Chat en Tiempo Real
+# 🔥 Proyecto WebSocket - Chat en Tiempo Real
 
 Este es un proyecto de práctica para aprender y entender el funcionamiento de **WebSockets** implementando un chat en tiempo real con persistencia de datos.
 
